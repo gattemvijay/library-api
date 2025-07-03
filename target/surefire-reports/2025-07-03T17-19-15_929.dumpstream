@@ -1,0 +1,5 @@
+# Created at 2025-07-03T17:19:16.341
+Boot Manifest-JAR contains absolute paths in classpath 'E:\VijayWork\SkillQuotient_Task_02072025\library-api\library-api\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
